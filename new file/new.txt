@@ -1,2 +1,6 @@
 Hi hello
+<<<<<<< Updated upstream
 This is done by pratiksha
+=======
+this is new line
+>>>>>>> Stashed changes
